@@ -1,4 +1,4 @@
-/* * {
+* {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
@@ -122,7 +122,7 @@ main > .box > .hero > .hero-text > p:nth-child(2) {
 main > .box > p {
     line-height: 1.5;
     padding-inline-end: 2.5rem;
-} */
+}
 
 @media (min-width: 1024px) {
     body {
